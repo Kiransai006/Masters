@@ -1,0 +1,88 @@
+🎥 6-Minute Video Script
+⏱️ 0:00–1:00 — Introduction (60 seconds)
+
+Hi everyone. In this video, I’m going to walk you through the key idea from my paper “AI in Social Media: The Benefits and Risks.”
+
+Artificial intelligence today has become deeply woven into the way social platforms operate. Whether we’re scrolling on Instagram, watching TikTok videos, or reading recommended posts on Facebook, AI is quietly shaping what we see, how long we stay, and even how we interact with others.
+
+My paper explores how AI evolved over time—from simple chronological feeds to today’s highly personalized algorithms—and why this topic matters now more than ever.
+
+As highlighted in the document, AI in social media isn’t just a technical issue. It’s cultural, political, and social. We’re seeing AI influence everything from mental health, to political opinions, to online safety, and even what becomes “trending.”
+
+So in this video, I’ll explain the major disruptions AI is causing or will continue to cause, and then I’ll evaluate my paper using the Universal Intellectual & Academic Standards included in the self-assessment sheet. 
+
+AI in Social Media
+
+⏱️ 1:00–3:00 — Disruptions AI Has Caused / Will Cause (120 seconds)
+
+AI has already transformed social media in powerful ways, and these transformations come with both positive disruptions and concerning ones.
+
+First, AI has completely disrupted content personalization. Platforms like TikTok and YouTube use machine-learning systems to predict what we’ll watch next. This makes feeds feel more relevant and engaging, but it also creates filter bubbles—narrow worlds where we only see content that matches our existing behaviors. As my paper notes, this has cultural and political consequences. 
+
+AI in Social Media
+
+Second, AI has disrupted content moderation. It can detect hate speech, spam, and harmful content at massive scale. But it's not perfect. Algorithmic bias can lead to unfair moderation or inconsistent enforcement. These issues aren’t going away—they will only grow as platforms rely more heavily on AI.
+
+Third, AI is disrupting privacy. The systems behind social platforms depend on massive amounts of data—your clicks, watch time, conversations, and even facial features. My paper highlights that misuse or mishandling of this data raises major ethical concerns.
+
+Fourth, generative AI is creating a new kind of disruption. Deepfakes, synthetic influencers, AI-generated videos, and digital humans are on the rise. This challenges our ability to distinguish real from artificial content. It also disrupts marketing, entertainment, and even political campaigning.
+
+Finally, there’s a disruption to mental health and wellbeing. Highly optimized feeds encourage addictive scrolling, emotional dependency, and unrealistic comparisons. This isn’t a small issue—AI literally shapes behavior.
+
+Looking forward, these disruptions will intensify. We can expect more hyper-personalized feeds, more AI-generated content, stronger government regulations, and more automation in how social platforms operate.
+
+In short, AI doesn’t just support social media anymore—it defines it. 
+
+AI in Social Media
+
+⏱️ 3:00–6:00 — Evaluation Using Universal Intellectual & Academic Standards
+
+Now I’ll evaluate my paper using the Universal Intellectual & Academic Standards listed in the self-assessment sheet.
+
+I’ll briefly walk through each category and summarize how the paper performs, using the marks and explanations from the document. 
+
+AI in Social Media
+
+1. Clarity – 14/15
+
+The paper clearly defines AI in social media and presents ideas in an organized way. Concepts are easy to follow, though minor phrasing improvements could make it even clearer.
+
+2. Accuracy – 9/10
+
+The information is based on credible, realistic technological trends and supported by reliable concepts. Adding more citations would improve accuracy further.
+
+3. Precision – 9/10
+
+The writing stays focused on the topic and uses precise definitions. A few sentences could be even more exact, but overall, precision is strong.
+
+4. Relevance – 5/5
+
+Every section directly relates to AI in social media—historical context, current perspectives, technical implications, risks, and benefits.
+
+5. Depth – 18/20
+
+The paper goes into strong detail, discussing ethical issues, user behavior, developer motivations, and social impact. Depth could be enhanced with more data or statistics.
+
+6. Breadth – 19/20
+
+The topic is explored from multiple angles: users, developers, platform companies, society, ethics, and technology. Very comprehensive coverage.
+
+7. Logic – 9/10
+
+The arguments follow a clear, logical flow—from introduction to historical evolution to current issues and future impact.
+
+8. Significance – 5/5
+
+The paper successfully demonstrates why AI in social media matters today—especially regarding privacy, misinformation, and cultural influence.
+
+9. Fairness – 5/5
+
+The discussion is balanced. It highlights benefits and risks without leaning too far in either direction.
+
+Overall Score: 93/100
+
+This reflects a strong, well-structured research paper with balanced critique, clear reasoning, and meaningful insights.
+
+Closing Line (Final 10 seconds)
+
+In summary, AI is reshaping social media in ways that are exciting but also challenging. Understanding these dynamics is essential for navigating today’s digital world. Thanks for watching.
