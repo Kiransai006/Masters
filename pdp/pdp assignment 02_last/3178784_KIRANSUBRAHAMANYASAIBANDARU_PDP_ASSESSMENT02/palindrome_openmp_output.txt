@@ -1,0 +1,40 @@
+114989 palindromes of size 3 found in 0.022679 s. using 1 threads.
+4404 palindromes of size 4 found in 0.028468 s. using 1 threads.
+4316 palindromes of size 5 found in 0.032296 s. using 1 threads.
+169 palindromes of size 6 found in 0.036503 s. using 1 threads.
+********************************************************************************
+114989 palindromes of size 3 found in 0.012592 s. using 2 threads.
+4404 palindromes of size 4 found in 0.013992 s. using 2 threads.
+4316 palindromes of size 5 found in 0.017431 s. using 2 threads.
+169 palindromes of size 6 found in 0.018630 s. using 2 threads.
+********************************************************************************
+114989 palindromes of size 3 found in 0.008925 s. using 3 threads.
+4404 palindromes of size 4 found in 0.009135 s. using 3 threads.
+4316 palindromes of size 5 found in 0.010986 s. using 3 threads.
+169 palindromes of size 6 found in 0.013158 s. using 3 threads.
+********************************************************************************
+114989 palindromes of size 3 found in 0.006162 s. using 4 threads.
+4404 palindromes of size 4 found in 0.007013 s. using 4 threads.
+4316 palindromes of size 5 found in 0.008062 s. using 4 threads.
+169 palindromes of size 6 found in 0.012050 s. using 4 threads.
+********************************************************************************
+114989 palindromes of size 3 found in 0.007841 s. using 5 threads.
+4404 palindromes of size 4 found in 0.007013 s. using 5 threads.
+4316 palindromes of size 5 found in 0.008281 s. using 5 threads.
+169 palindromes of size 6 found in 0.009381 s. using 5 threads.
+********************************************************************************
+114989 palindromes of size 3 found in 0.005765 s. using 6 threads.
+4404 palindromes of size 4 found in 0.006654 s. using 6 threads.
+4316 palindromes of size 5 found in 0.007839 s. using 6 threads.
+169 palindromes of size 6 found in 0.007927 s. using 6 threads.
+********************************************************************************
+114989 palindromes of size 3 found in 0.004074 s. using 7 threads.
+4404 palindromes of size 4 found in 0.005272 s. using 7 threads.
+4316 palindromes of size 5 found in 0.006634 s. using 7 threads.
+169 palindromes of size 6 found in 0.007744 s. using 7 threads.
+********************************************************************************
+114989 palindromes of size 3 found in 0.004017 s. using 8 threads.
+4404 palindromes of size 4 found in 0.004136 s. using 8 threads.
+4316 palindromes of size 5 found in 0.004891 s. using 8 threads.
+169 palindromes of size 6 found in 0.006543 s. using 8 threads.
+********************************************************************************
